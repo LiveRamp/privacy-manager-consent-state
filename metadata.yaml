@@ -1,5 +1,5 @@
 homepage: "https://liveramp.com"
 documentation: "https://github.com/LiveRamp/privacy-manager-consent-state"
 versions:
-  - sha: 94a2fe25924fe2b13de93ab07d2cc49a8c78ff59
+  - sha: a92a6dc97e3c9eecdd43bdfa0acb3a1e32262329
     changeNotes: Initial release
